@@ -1,0 +1,43 @@
+Quiz 0:
+
+1. What is an interface (include best design practices in your response)?
+
+  An interface is any methods / functions that is used to interact with a class.
+
+  An example, when determining the sum of two numbers with a calculator, all you
+  have to do are provide the numbers and the operator, and you will get the right
+  answer. However, it shouldn't matter to the user how the calculator got to the
+  end result, if the answer is right. 
+
+2. What are the three main scopes an attribute can have in a class (I am not
+  referring to private, protected, public)?
+
+  Local attributes
+  Object attributes
+  Class attributes
+
+3. Considering question 2, please tell me when each scope would be appropriate.
+
+  Local attributes are owned by a specific method.
+  Object attributes are attributes that all methods in a class have access to.
+  Class attributes are attributes that all instances of a class have access to.
+
+4. What is precedural programming?
+  
+  Procedural programming is where code is placed in a function, and when input
+  is fed to these functions, they return the output.
+
+  For example, you can have a sum function, and when you pass two numbers (input)
+  as a parameter to the function, the function returns the sum (output) of the
+  two numbers.
+
+  Furthermore any program that executes code from top to bottom can be considered
+  procedural programming. 
+
+5. Describe encapsulation.
+
+  Encapsulation is when the details of implementation is hidden from the user.
+
+  For example, you can use a remote control to change the channel and/or
+  increase/decrease volume without knowing how that functionality is
+  implemented.
