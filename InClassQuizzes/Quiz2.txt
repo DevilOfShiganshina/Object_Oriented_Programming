@@ -1,0 +1,10 @@
+1. Explain why the following code is legal or not
+
+  g(char(*) [20]);
+  g(char(*) [40]);
+
+2. Explain when a procedural programming approach is more appropriate than an object oriented one.
+
+3. Describe how you can prevent an object from being copied by the user.
+
+4. What is an interface (include best design practices in your response)?

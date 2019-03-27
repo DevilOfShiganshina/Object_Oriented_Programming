@@ -1,0 +1,8 @@
+1. Why use an object oriented program?
+
+2. Describe when a class attribute is better than an object attribute.
+
+3. Create a well-defined API for an event registration system entry (e.g.,
+   RamapoStudent and Student pr Attendee and Artist classes might be appropriate). it must
+   have an inheritance. There is no limit on size, but you should keep it concise due to time
+   constraints. This should be done with the UML we discussed in class.

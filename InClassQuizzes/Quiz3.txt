@@ -1,0 +1,9 @@
+1. Please give an example for when you want to define your own deconstructor.
+
+2. In C++, each member can have three scopes. Please define each one.
+
+  Public, Private, Protected
+
+3. What are stubs used for?
+
+4. Please define object persistence?
