@@ -1,0 +1,7 @@
+1. Describe and justify when it would be appropriate to use a singleton pattern (I am not
+asking for the definition but for an example for when you would employ this design pattern).
+
+2. Describe and justify when it would be appropriate to use a factory pattern (I am not
+asking for the definition but for an example for when you would employ this design pattern).
+
+3. Describe the difference between the association forms of composition and aggregation.
