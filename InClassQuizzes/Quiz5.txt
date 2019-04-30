@@ -1,0 +1,18 @@
+Using the language discussed in class; what is the difference between
+aggregation and composition (remember, I consider them to both be forms of association)?
+
+Python is a dynamically typed language. How can this be prove given the
+code below?
+
+  my_variable = 10
+  while my_variable > 0:
+    i = foo(my_variable)
+    if i < 100:
+      my_variable++
+    else
+      my_variable = (my_variable + i) / 10
+
+
+what are the 3 main constructor types we see in C++?
+
+what is inlining?
