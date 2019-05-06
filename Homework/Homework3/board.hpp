@@ -15,7 +15,7 @@ public:
    * 
    * \param This constructor does not require any parameters.
    * 
-   * \return Nothing
+   * \return This constructor does not return anything
    **/
 
   Board();
@@ -27,7 +27,7 @@ public:
    * \param An integer value which is both the length and the width of
    *         the board.
    * 
-   * \return Nothing
+   * \return This constructor does not return anything
    **/
 
   Board(int length_width);
@@ -38,9 +38,11 @@ public:
    * 
    * \param This destructor does not require any parameters.
    * 
-   * \return Nothing
+   * \return This destructor does not return anything
    **/
+
   ~Board();
+
   /**
    * \brief This function creates the board
    * 
@@ -48,17 +50,19 @@ public:
    *        uses the private attributes of the Board class. length_width,
    *        and the vector vect.
    * 
-   * \return Nothing
+   * \return This function does not return anything
    **/
 
   void create_board();
 
   /**
    * \brief This function prints the board to the console window.
+   * 
    * \param This function does not require any parameters, though it
    *        uses the private attributes of the Board class. length_width,
    *        and the vector vect.
-   * \return Nothing
+   * 
+   * \return This function does not return anything
    **/
 
   void print_board();
